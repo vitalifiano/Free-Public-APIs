@@ -1842,3 +1842,9 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 <br >
+<br>
+<br>
+<br>
+
+## License
+[MIT](LICENSE) (c) 2022 public-apis
