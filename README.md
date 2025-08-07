@@ -1,4 +1,4 @@
-# Public-APIs
+# Public APIs
 
 ## Index
 
